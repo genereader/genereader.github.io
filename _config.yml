@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lu Yiming's Personal Website"
+title                    : "Lu Yiming's Site"
 title_separator          : "-"
 name                     : "Lu Yiming"
-description              : "Lu Yiming's Personal Website"
+description              : "Lu Yiming's Site"
 url                      : "https://luyimingweb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
