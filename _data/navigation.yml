@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://luyimingweb.github.io/publications/
-
   - title: "Software & Database"
     url: https://luyimingweb.github.io/software/
 
