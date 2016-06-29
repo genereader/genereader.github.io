@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Software & Database"
-    url: /software/
+    url: https://genereader.github.io/software.html
 
   - title: "Contact"
-    url: https://luyimingweb.github.io/contact/
+    url: https://genereader.github.io/contact/
