@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Software & Database"
-    url: https://luyimingweb.github.io/software/
+    url: /software/
 
   - title: "Contact"
     url: https://luyimingweb.github.io/contact/
