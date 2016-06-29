@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gene Reader"
 title_separator          : "-"
 name                     : "Yiming Lu"
-description              : "Yiming Lu's Site"
+description              : "Gene Reader"
 url                      : "https://genereader.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
