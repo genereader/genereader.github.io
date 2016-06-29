@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lu Yiming's Site"
+title                    : "Yiming Lu's Site"
 title_separator          : "-"
-name                     : "Lu Yiming"
-description              : "Lu Yiming's Site"
+name                     : "Yiming Lu"
+description              : "Yiming Lu's Site"
 url                      : "https://luyimingweb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,7 +63,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Lu Yiming"
+  name             : "Yiming Lu"
   avatar           : "photo-luym.jpg"
   bio              : "Assistant Professor at Beijing Institute of Radiation Medicine, State Key Laboratory of Proteomics."
   location         : "Beijing, China"
